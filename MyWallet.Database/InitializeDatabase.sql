@@ -48,3 +48,10 @@ BEGIN
 		) ON UPDATE  NO ACTION 
 		 ON DELETE  NO ACTION 
 END
+
+IF NOT EXISTS (SELECT 1 FROM [wallet].[wallet])
+BEGIN
+	INSERT INTO [wallet].[wallet] (Owner)
+	VALUES ('John')
+	
+END
