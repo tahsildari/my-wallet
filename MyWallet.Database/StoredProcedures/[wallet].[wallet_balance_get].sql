@@ -12,7 +12,7 @@ begin
 	else
 	begin
 		declare @balance int = 0
-		
+		-- balance is calculated live
 		select @balance = sum(
 			case when direction = 0
 				then amount

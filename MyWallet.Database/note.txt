@@ -1,4 +1,4 @@
 ﻿Please:
 	1. run the CreateDatabase script first to create the database.
 	2. then run the InitializeDatabase to create the required tables.
-	3. run each .sql file under StoredProcedures to create the SPs.
+	3. run each .sql file under StoredProcedures to create the SPs (on the same database).
