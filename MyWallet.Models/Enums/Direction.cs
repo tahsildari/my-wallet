@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MyWallet.Models
+﻿namespace MyWallet.Models
 {
     /// <summary>
     /// Indicates whether a transaction is adding to an account's balance

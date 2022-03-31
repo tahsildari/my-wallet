@@ -1,5 +1,4 @@
 ﻿using MyWallet.Models;
-using System;
 using System.Threading.Tasks;
 
 namespace MyWallet.Service

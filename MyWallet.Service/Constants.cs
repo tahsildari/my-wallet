@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MyWallet.Service
+﻿namespace MyWallet.Service
 {
     public class Constants
     {

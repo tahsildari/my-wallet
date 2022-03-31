@@ -5,8 +5,6 @@ using MyWallet.Models;
 using MyWallet.Service;
 using MyWallet.Validation;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace MyWallet.Controllers

@@ -1,6 +1,5 @@
 ﻿using FluentValidation;
 using MyWallet.Models;
-using System;
 
 namespace MyWallet.Validation
 {
